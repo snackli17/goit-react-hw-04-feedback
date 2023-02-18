@@ -1,0 +1,12 @@
+.statList {
+    list-style: none;
+    width: 280px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+.statItem {
+    font-size: 25px;
+    line-height: 1.5;
+    font-weight: 500;
+}
